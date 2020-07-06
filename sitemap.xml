@@ -3,15 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://maplefeng.space/blog/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://maplefeng.space/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://maplefeng.space/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://maplefeng.space/tags/</loc>
   </url>
   
 </urlset>
