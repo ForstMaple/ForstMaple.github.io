@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://maplefeng.space/tags/greeting/</loc>
+    <lastmod>2020-07-06T17:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maplefeng.space/posts/helloworld/</loc>
     <lastmod>2020-07-06T17:21:59+08:00</lastmod>
   </url>
@@ -18,15 +23,16 @@
   </url>
   
   <url>
+    <loc>https://maplefeng.space/tags/</loc>
+    <lastmod>2020-07-06T17:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maplefeng.space/blog/</loc>
   </url>
   
   <url>
     <loc>https://maplefeng.space/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://maplefeng.space/tags/</loc>
   </url>
   
 </urlset>

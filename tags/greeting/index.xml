@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>greeting on Maple&#39;s Space</title>
+    <link>https://maplefeng.space/tags/greeting/</link>
+    <description>Recent content in greeting on Maple&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 06 Jul 2020 17:21:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://maplefeng.space/tags/greeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>https://maplefeng.space/posts/helloworld/</link>
+      <pubDate>Mon, 06 Jul 2020 17:21:59 +0800</pubDate>
+      
+      <guid>https://maplefeng.space/posts/helloworld/</guid>
+      <description>This is the first post of my space and also a test post. Please feel free to hang around and comment :)</description>
+    </item>
+    
+  </channel>
+</rss>
