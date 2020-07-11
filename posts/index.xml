@@ -5,6 +5,8 @@
         <description>Recent content in Posts on Maple&#39;s Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
+        <managingEditor>ForstMaple@gmail.com (Maple Feng)</managingEditor>
+        <webMaster>ForstMaple@gmail.com (Maple Feng)</webMaster>
         <lastBuildDate>Mon, 06 Jul 2020 17:21:59 +0800</lastBuildDate>
         <atom:link href="https://maplefeng.space/posts/index.xml" rel="self" type="application/rss+xml" />
         
@@ -14,7 +16,9 @@
             <pubDate>Mon, 06 Jul 2020 17:21:59 +0800</pubDate>
             
             <guid>https://maplefeng.space/posts/helloworld/</guid>
-            <description>This is the first post of my space and also a test post. Please feel free to hang around and comment :)</description>
+            <description>&lt;p&gt;This is the first post of my space and also a test post.
+Please feel free to hang around and comment :)&lt;/p&gt;
+</description>
             <content type="html"><![CDATA[<p>This is the first post of my space and also a test post.
 Please feel free to hang around and comment :)</p>
 ]]></content>
