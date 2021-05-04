@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maple&#39;s Space</title>
-    <link>https://maplefeng.space/</link>
-    <description>Recent content on Maple&#39;s Space</description>
+    <title>investment on Maple&#39;s Space</title>
+    <link>https://maplefeng.space/tags/investment/</link>
+    <description>Recent content in investment on Maple&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>ForstMaple@gmail.com (Maple Feng)</managingEditor>
     <webMaster>ForstMaple@gmail.com (Maple Feng)</webMaster>
-    <lastBuildDate>Tue, 04 May 2021 00:43:07 +0800</lastBuildDate><atom:link href="https://maplefeng.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:43:07 +0800</lastBuildDate><atom:link href="https://maplefeng.space/tags/investment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>近期投资展望与观点记录（未完）</title>
       <link>https://maplefeng.space/posts/may_investment_forecast/</link>
@@ -22,15 +22,6 @@
 港股 上周五（4月30日），恒生指数下跌近2%，接近近期构筑箱体的下沿。5月3日开市后恒生指数继续下跌，并在120日均线附近企稳，收盘略有回升，MACD指标和KDJ指标均出现死叉。值得注意的是，恒生指数自2月18日调整以来正是在120日均线附近止跌反弹，因此短期需要关注MA120支撑是否有效，否则指数有下探测试27505低点的风险。
 另一方面，在香港上市的大型互联网公司近期受反垄断消息的影响持续低迷，但今日腾讯、阿里等公司跌幅显著小于指数并且日K基本维持区间震荡形态。当前腾讯和阿里的滚动市盈率分别为31.47和27.77，处于相对低位，因此短期存在情绪修复的可能性，有望带动指数反弹，但在缺少南向资金的情况下机会有限。
 美股 近期三大股指基本在新高附近震荡，如果出现调整可能对港股和A股造成情绪冲击。北京时间3日晚，美国4月ISM制造业PMI录得60.7的高值，但远逊于预期的65.0。这一数据说明美国的经济复苏势头依然强劲，但市场或许对复苏的力度过于乐观。受PMI数据影响，美国10年期国债利率和美元指数短线下挫，但不久后遍回升，纳斯达克指数亦转跌。我个人认为，一次的PMI数据存在一定的偶然性，经济复苏的情况还需要更多数据的佐证，况且PMI数据仍然维持在扩张区间的高位。另一方面，美联储的放水力度依然火力全开，短期再边际宽松的可能微乎其微，因此投资者对于新高附近的指数仍然会保持一定谨慎。不过我感觉近期印度的疫情会是市场短期的一个不确定因素。</description>
-    </item>
-    
-    <item>
-      <title>Hello, world!</title>
-      <link>https://maplefeng.space/posts/helloworld/</link>
-      <pubDate>Mon, 06 Jul 2020 17:21:59 +0800</pubDate>
-      <author>ForstMaple@gmail.com (Maple Feng)</author>
-      <guid>https://maplefeng.space/posts/helloworld/</guid>
-      <description>This is the first post of my space and also a test post. Please feel free to hang around and comment :)</description>
     </item>
     
   </channel>

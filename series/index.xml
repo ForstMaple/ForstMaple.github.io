@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>ForstMaple@gmail.com (Maple Feng)</managingEditor>
-    <webMaster>ForstMaple@gmail.com (Maple Feng)</webMaster>
-    
-	<atom:link href="https://maplefeng.space/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>ForstMaple@gmail.com (Maple Feng)</webMaster><atom:link href="https://maplefeng.space/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

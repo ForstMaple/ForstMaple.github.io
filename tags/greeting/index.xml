@@ -8,11 +8,7 @@
     <language>zh-CN</language>
     <managingEditor>ForstMaple@gmail.com (Maple Feng)</managingEditor>
     <webMaster>ForstMaple@gmail.com (Maple Feng)</webMaster>
-    <lastBuildDate>Mon, 06 Jul 2020 17:21:59 +0800</lastBuildDate>
-    
-	<atom:link href="https://maplefeng.space/tags/greeting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Jul 2020 17:21:59 +0800</lastBuildDate><atom:link href="https://maplefeng.space/tags/greeting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, world!</title>
       <link>https://maplefeng.space/posts/helloworld/</link>
